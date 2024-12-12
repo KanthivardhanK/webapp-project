@@ -25,7 +25,7 @@
 </head>
 <body>
     <h1>Welcome to My Simple Webpage</h1>
-    <p>This is a SIMPLE webpage designed to demonstrate deploying a simple web application in CI/CD.</p>
+    <p>This is a SIMPLE WEBPAGE designed to demonstrate deploying a simple web application in CI/CD.</p>
 
     <h2>Introduction</h2>
     <p>To create this page first we need maven, java installed in the server and cofigured</p>
